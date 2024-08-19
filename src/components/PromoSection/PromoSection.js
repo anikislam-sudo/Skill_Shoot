@@ -1,11 +1,11 @@
 import React from "react";
-import img1 from "/projects/Skill_shoot/task-app/src/assets/pexels-katerina-holmes-5905497-removebg-preview 1.png";
-import round from "/projects/Skill_shoot/task-app/src/assets/Intersect (1).png";
-import round2 from "/projects/Skill_shoot/task-app/src/assets/Intersect.png";
-import square from "/projects/Skill_shoot/task-app/src/assets/Group 574.png";
-import square1 from "/projects/Skill_shoot/task-app/src/assets/Group 575.png";
-import square2 from "/projects/Skill_shoot/task-app/src/assets/Group 576.png";
-import round1 from "/projects/Skill_shoot/task-app/src/assets/ornamen (1).png";
+import img1 from "../../assets/pexels-katerina-holmes-5905497-removebg-preview 1.png";
+import round from "../../assets/Intersect (1).png";
+import round2 from "../../assets/Intersect.png";
+import square from "../../assets/Group 574.png";
+import square1 from "../../assets/Group 575.png";
+import square2 from "../../assets/Group 576.png";
+import round1 from "../../assets/ornamen (1).png";
 
 const PromoSection = () => {
   return (

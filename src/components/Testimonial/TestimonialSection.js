@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import star from "/projects/Skill_shoot/task-app/src/assets/star.png";
+import star from "../../assets/star.png";
 
 const testimonials = [
   {

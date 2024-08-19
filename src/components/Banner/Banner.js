@@ -1,12 +1,13 @@
 import React from "react";
-import img from "/projects/Skill_shoot/task-app/src/assets/pexels-max-fischer-5212317-removebg-preview 1.png";
-import pencil from "/projects/Skill_shoot/task-app/src/assets/Group 25.png";
-import media from "/projects/Skill_shoot/task-app/src/assets/Group 15.png";
-import card from "/projects/Skill_shoot/task-app/src/assets/Group 23.png";
-import calendar from "/projects/Skill_shoot/task-app/src/assets/Group 24.png";
-import insta from "/projects/Skill_shoot/task-app/src/assets/bxl-instagram-alt (1) 1.png";
-import twitter from "/projects/Skill_shoot/task-app/src/assets/bxl-twitter (1) 1.png";
-import discord from "/projects/Skill_shoot/task-app/src/assets/bxl-discord-alt 1.png";
+
+import img from "../../assets/pexels-max-fischer-5212317-removebg-preview 1.png";
+import pencil from "../../assets/Group 25.png";
+import media from "../../assets/Group 15.png";
+import card from "../../assets/Group 23.png";
+import calendar from "../../assets/Group 24.png";
+import insta from "../../assets/bxl-instagram-alt (1) 1.png";
+import twitter from "../../assets/bxl-twitter (1) 1.png";
+import discord from "../../assets/bxl-discord-alt 1.png";
 
 import "../Banner/Banner.css";
 

@@ -1,6 +1,6 @@
 import React from 'react';
-import zigzag from "/projects/Skill_shoot/task-app/src/assets/Vector 15.png";
-import doubleCircle from "/projects/Skill_shoot/task-app/src/assets/Group 162529.png";
+import zigzag from "../../assets/Vector 15.png";
+import doubleCircle from "../../assets/Group 162529.png";
 
 const Footer = () => {
   return (

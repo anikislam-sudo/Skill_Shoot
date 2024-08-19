@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "/projects/Skill_shoot/task-app/src/assets/Logo (1).png";
-import menu from "/projects/Skill_shoot/task-app/src/assets/ep_menu.png";
+import logo from "../../assets/Logo (1).png";
+import menu from "../../assets/ep_menu.png";
 
 const Navbar = () => {
   const menuItems = (

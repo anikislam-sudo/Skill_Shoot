@@ -1,9 +1,9 @@
 import React from "react";
-import img2 from "/projects/Skill_shoot/task-app/src/assets/Image (1).png";
-import group from "/projects/Skill_shoot/task-app/src/assets/Group 48095520.png";
-import group1 from "/projects/Skill_shoot/task-app/src/assets/Group 48095522.png";
-import group2 from "/projects/Skill_shoot/task-app/src/assets/Group 48095524.png";
-import group3 from "/projects/Skill_shoot/task-app/src/assets/Group 48095526.png";
+import img2 from "../../assets/Image (1).png";
+import group from "../../assets/Group 48095520.png";
+import group1 from "../../assets/Group 48095522.png";
+import group2 from "../../assets/Group 48095524.png";
+import group3 from "../../assets/Group 48095526.png";
 const SkillShoot = () => {
   return (
     <div className="bg-white  py-4">

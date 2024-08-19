@@ -1,9 +1,9 @@
 import React from 'react';
-import logo1 from "/projects/Skill_shoot/task-app/src/assets/unsplash_d1UPkiFd04A.png";
-import box from "/projects/Skill_shoot/task-app/src/assets/Group 542.png";
-import box1 from "/projects/Skill_shoot/task-app/src/assets/Group 555.png";
-import box2 from "/projects/Skill_shoot/task-app/src/assets/Group 556.png";
-import box3 from "/projects/Skill_shoot/task-app/src/assets/Group 554.png";
+import logo1 from "../../assets/unsplash_d1UPkiFd04A.png";
+import box from "../../assets/Group 542.png";
+import box1 from "../../assets/Group 555.png";
+import box2 from "../../assets/Group 556.png";
+import box3 from "../../assets/Group 554.png";
 const WhyExistSection = () => {
   return (
     <div className="py-12 mx-auto bg-white">

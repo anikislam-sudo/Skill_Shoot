@@ -1,6 +1,6 @@
 import React from "react";
-import round from "/projects/Skill_shoot/task-app/src/assets/Intersect (1).png";
-import square1 from "/projects/Skill_shoot/task-app/src/assets/Group 575.png";
+import round from "../../assets/Intersect (1).png";
+import square1 from "../../assets/Group 575.png";
 
 const BannerTwo = () => {
   return (

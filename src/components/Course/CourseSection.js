@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import CourseCard from "./CourseCard"; // Import the CourseCard component
-import square1 from "/projects/Skill_shoot/task-app/src/assets/Group 575.png";
-import round1 from "/projects/Skill_shoot/task-app/src/assets/ornamen (1).png";
+import square1 from "../../assets/Group 575.png";
+import round1 from "../../assets/ornamen (1).png";
 
 const CourseSection = () => {
   const courses = [
